@@ -13,6 +13,7 @@ image:
   twitter: /assets/vianello.jpeg
 ---
 Spesso da piccolo trascorrevo del tempo a casa di mia nonna, e mi ricordo che la televisione era fissa su canale 4. Non so bene perchè, ma quello sitcom mi piaceva.
+<!-- more -->
 Le puntate erano più o meno tutte uguali: breve intro, sfiga del giorno, conclusione spietata. Poteva esserci una rissa, una truffa od un tentativo di tradimento di Raimondo che veniva puntalmente sgammato da Sandra e preso a mazzate.  Insomma poche idee ma buone.
 
 La cosa più bella era la fine della puntata, dove la mitica Sandra sfoggiava il tormentone "che barba, che noia!".

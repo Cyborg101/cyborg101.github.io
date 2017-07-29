@@ -4,6 +4,7 @@ title: Crea la tua launcher icon in meno di un minuto!
 description: Per chi non ha tempo/voglia, non dispone di un designer, o in fase di prototipazione, Launcher Icon Generator offre l'opportunità di creare un'icona launcher in pochi secondi.
 ---
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) è un ottimo strumento che permette di creare icone per le tue App Android in pochi click. Si possono selezionare diverse icone create dai designer del material design team, o puoi utilizzare le tue immagini. Ne faccio spesso uso quando ho bisogno di una launcher icon, ovvero l’icona che viene visualizzata nel dispositivo e che, una volta premuta, permette di avviare l’applicazione.
+<!-- more -->
 
 <img src="{{ site.url }}/assets/launchericon.jpg" alt="launcher icon screenshot" style="width: 500px;"/>
 

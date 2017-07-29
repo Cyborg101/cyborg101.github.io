@@ -13,6 +13,7 @@ image:
 ---
 
 Ho appena modificato il mio sito, aggiungendo il supporto per le twitter cards. Ho utilizzato la [Summary Card](https://dev.twitter.com/cards/types/summary), in quanto credo sia la più appropriata per il mio sito. La card apparirà sotto il tweet da 140 caratteri.
+<!-- more -->
 Eccone un esempio.
 {% highlight html %}
 <meta name="twitter:card" content="summary" />

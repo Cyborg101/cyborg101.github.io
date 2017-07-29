@@ -6,6 +6,7 @@ description: Ogni giorno si trovano sempre più siti che ti promettono di impara
 
 Viviamo in anni magnifici per tutti gli aspiranti programmatori. Ormai in rete è pieno di ottimi siti il cui scopo è insegnare  a programmare.
 Essendo io stesso uno delle tante persone che ha deciso di fare un cambiamento di carriera e buttandomi sulla programmazione, posso consigliarti alcune risorse che ho trovato molto utili.
+<!-- more -->
 
 ### [Treehouse](https://teamtreehouse.com)
 

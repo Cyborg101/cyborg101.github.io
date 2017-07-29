@@ -12,7 +12,9 @@ image:
   width: 100
 ---
 
-[L'esperimento di Libet](https://it.wikipedia.org/wiki/Benjamin_Libet) è senza dubbio uno dei più famosi nella storia della psicologia, e scatena da anni ampi dibattiti. La procedura è variata nel corso degli anni, tuttavia si può cercare di sintetizzare la procedura in 6 punti.
+[L'esperimento di Libet](https://it.wikipedia.org/wiki/Benjamin_Libet) è senza dubbio uno dei più famosi nella storia della psicologia, e scatena da anni ampi dibattiti. 
+La procedura è variata nel corso degli anni, tuttavia si può cercare di sintetizzare la procedura in 6 punti.
+<!-- more -->
 1. All'inizio di ciascun trial, un messaggio avverte i partecipanti di prepararsi per lo stimolo
 2. Dopo un intervallo variabile, viene mostrato un orologio
 3. Invece delle lancette dell'orologio, un puntino inizia a girare intorno al centro dell'orologio ad una velocità costante

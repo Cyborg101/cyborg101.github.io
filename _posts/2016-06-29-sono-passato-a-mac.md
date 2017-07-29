@@ -5,6 +5,7 @@ description: Ecco perchè sono passato da Linux a Mac. 5 Motivi per cui amo Mac 
 ---
 
 Ebbene sì, dopo anni di esilio ho deciso di vendermi un rene per acquistare un macbook pro.
+<!-- more -->
 
 Finalmente mi posso sentire un vero web developer. Scherzi a parte, il mio nuovo portatile mi piace molto per 5 cose:
 

@@ -9,6 +9,7 @@ Oggi vedremo come creare una chiavetta usb da cui possiamo installare Ubuntu.
 Il procedimento è molto semplice. Prima di tutto scaricate la iso di Ubuntu da
 [questa pagina](http://www.ubuntu-it.org/). Consiglio vivamente di scegliere la
 versione 16.04 LTS.
+<!-- more -->
 
 ## LINUX
 

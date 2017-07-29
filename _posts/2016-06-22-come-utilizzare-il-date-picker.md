@@ -5,6 +5,7 @@ Description: Il DatePicker fornisce un'interfaccia grafica già pronta che gli u
 ---
 Il DatePicker permette di scegliere una data costituita da giorno, mese e anno.
 In questo post spieghero’ come creare un datepicker dialog.
+<!-- more -->
 
 Creeremo un’app che, una volta scelta una data, ci dirà quanti millisecondi,
 secondi, minuti, ore, giorni, mesi ed anni sono passati dalla data in questione.

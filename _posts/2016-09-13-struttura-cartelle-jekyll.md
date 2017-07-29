@@ -14,6 +14,7 @@ image:
 
 
 Per utilizzare Jekyll con successo, è utile conoscere la struttura delle sue cartelle. In questo articolo scopriremo i file e le cartelle più importanti.
+<!-- more -->
 
 ## &#95;config.yml
 Questo file viene utilizzato per specificare alcune variabili importanti per il tuo sito, tipo l’url, la descrizione o il titolo. Si possono inoltre configurare collections o defaults, di cui parlerò in qualche post futuro. Inoltre si possono specificare alcune variabili runtime che vogliamo che vengano eseguite sempre.

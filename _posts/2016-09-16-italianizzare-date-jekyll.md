@@ -13,6 +13,7 @@ image:
 ---
 
 Una modifiche obbligate che noi italiani dobbiamo fare per il nostro blog jekyll è quella di cambiare il formato delle date dei post. Infatti Jekyll utilizza di default i mesi in lingua inglese.
+<!-- more -->
 Ad esempio, la pagina che mostra gli ultimi post utilizza abbreviazioni dei mesi inglesi, tipo **Jan** o **Sep**, numero del giorno e anno. Noi italiani siamo invece abituati a numero del giorno, mese ed anno.
 <img src="{{ site.url }}/assets/date-inglesi-brevi.png" alt="immagine esempio del sito"/>
 Diamo un'occhiata al codice che genera le date visualizzate nell'immagine sopra.

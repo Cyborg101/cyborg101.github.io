@@ -16,6 +16,7 @@ image:
 In un [post recente]({{site.url}}/2016/08/15/jekyll.html) ho introdotto Jekyll e i
 suoi vantaggi rispetto a Wordpress. Brevemente, Jekyll è più sicuro, veloce e consente
 di poter ospitare gratuitamente il tuo sito su [github pages](https://pages.github.com/). Oggi vedremo i passi da compiere per poter ospitare il tuo sito su github pages.
+<!-- more -->
 
 Prima di tutto, consiglio di installare [Bundler](http://bundler.io/) per gestire le dipendenze
 delle Ruby Gems. Per installare Bundler, devi assicurarti di aver già installato Ruby.

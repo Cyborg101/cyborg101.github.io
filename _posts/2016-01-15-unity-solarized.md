@@ -5,6 +5,7 @@ description: Ecco come dare un tocco in più ad Ubuntu Unity. In questo post spi
 ---
 
 Ecco come appare il mio Ubuntu Desktop:
+<!-- more -->
 
 
 <img src="{{ site.url }}/assets/solarizednumix.png" alt="My Unity Solarized Desktop" style="width: 500px;"/>

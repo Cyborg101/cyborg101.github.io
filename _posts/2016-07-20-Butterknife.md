@@ -5,6 +5,7 @@ description: Spesso Java ed Android richiedono di scrivere infinite linee di cod
 ---
 
 Nella programmazione, il boilerplate code o boilerplate si riferisce a sezioni di codice che devono essere incluse in molti posti senza cambiare molto. E’ un termine che si utilizza molto quando si parla di linguaggi di programmazione considerati verbosi, nei quali il programmatore deve scrivere molto codice senza produrre molto.
+<!-- more -->
 
 Se hai mai programmato un’app Android con Android Studio ti sarai reso conto che purtroppo il boilerplate code è molto presente. Una semplice applicazione infatti può richiedere molto codice senza fare poi molto. E’ qui che ci viene incontro una semplice libreria creata da [Jake Wharton](http://jakewharton.com/) chiamata [Butter Knife](https://github.com/JakeWharton/butterknife).
 
