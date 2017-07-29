@@ -2,11 +2,21 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/header_about.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Ciao, mi chiamo Umberto e sono uno sviluppatore web e mobile. Ogni giorno imparo qualcosa di nuovo nel campo della programmazione e desidero condividere le mie scoperte attraverso questo sito. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Ho un background un pò singolare per essere un programmatore, infatti prima di scoprire la mia passione per la programmazione mi sono laureato in Psicologia all'Università degli Studi di Padova. Spero di poter essere d'aiuto a chi sta muovendo i primi passi nel settore e di portare una prospettiva un pò differente rispetto agli altri numerosi e validi siti di programmazione.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Se vuoi contattarmi, il modo migliore per farlo è inviarmi un'email all'indirizzo umberto.dovidio[at]gmail.com, in alternativa sono presente su [Twitter](https://twitter.com/UmbertoDOvidio) e [Linkedin](https://www.linkedin.com/in/umberto-d-ovidio-b6b276125).
+
+Ti lascio qualche curiosità su di me:
+- Ho vissuto in tre paesi diversi oltre l'Italia
+- Ho partecipato ad un triathlon sprint (750 m di nuoto, 20 km di bici e 5 km di corsa) e ne farei volentieri altri ginocchio permettendo
+- Sono minimalista e cerco di vivere con meno cose possibili
+- Dopo anni su Facebook ho cancellato il mio account (e sorprendentemente riesco a vivere una vita normale).
+- Compongo della [Pessima musica elettronica](https://soundcloud.com/synapticcollision)
+- A 18 anni ho fatto una pubblicato una serie di video sulla filosofia di [Kant](https://www.youtube.com/watch?v=LOVxzqEpCgw) con sfondi improbabili girandoli 
+
+

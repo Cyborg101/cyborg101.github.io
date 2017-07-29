@@ -1,4 +1,4 @@
-source "https://rubygems.org"
-gem 'rouge'
-gem 'jekyll'
-gem 'jekyll-paginate'
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-seo-tag', group: :jekyll_plugins
+gem 'octopress-paginate', group: :jekyll_plugins
