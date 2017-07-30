@@ -17,6 +17,6 @@ Ti lascio qualche curiosità su di me:
 - Sono minimalista e cerco di vivere con meno cose possibili
 - Dopo anni su Facebook ho cancellato il mio account (e sorprendentemente riesco a vivere una vita normale).
 - Compongo della [Pessima musica elettronica](https://soundcloud.com/synapticcollision)
-- A 18 anni ho fatto una pubblicato una serie di video sulla filosofia di [Kant](https://www.youtube.com/watch?v=LOVxzqEpCgw) con sfondi improbabili girandoli 
+- A 18 anni ho fatto una pubblicato una serie di video sulla filosofia di [Kant](https://www.youtube.com/watch?v=LOVxzqEpCgw) con sfondi improbabili.
 
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Generatori di siti statici, cosa sono e perchè usarli
 description: Recentemente sempre più sviluppatori mostrano e blogger grande interesse per i generatori di siti statici. Ma cosa sono, e come usarli?
 thumbnail: /assets/static-site-generator.png

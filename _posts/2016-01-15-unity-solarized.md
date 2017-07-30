@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Unity Solarized (Facciamo bello il nostro desktop)
 description: Ecco come dare un tocco in più ad Ubuntu Unity. In questo post spiego come installare le icone numix, cambiare lo schema di colori al terminale e alla shell Unity.
 ---

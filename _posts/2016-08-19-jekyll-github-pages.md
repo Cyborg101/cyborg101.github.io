@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Come pubblicare il proprio sito jekyll su Github Pages gratis
 description: Come pubblicare il proprio sito Jekyll su github-pages gratis. In questo post scoprirai com'è semplice e veloce pubblicare il tuo sito su github pages.
 tags: jekyll github-pages installazione tutorial bundler serve watch

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Sfidare il libero arbitrio dal proprio browser?
 description: Si può sfidare il libero arbitrio dal proprio browser? Un team di scienziati ha ricreato il famoso esperimento di Libet usando tecnologie HTML5.
 img: /assets/libet.png

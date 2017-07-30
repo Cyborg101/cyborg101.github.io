@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Come Utilizzare il DatePicker in AndroidStudio
 Description: Il DatePicker fornisce un'interfaccia grafica già pronta che gli utenti possono utilizzare per selezionare una data. In questo tutorial spiego brevemente come utilizzarlo, avvalendoci anche della libreria joda-time.
 ---

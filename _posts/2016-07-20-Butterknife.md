@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Butterknife, l'arma contro il boilerplate code
 description: Spesso Java ed Android richiedono di scrivere infinite linee di codice che alla fine della fiera servono a poco. Butterknife rende più semplice effettuare alcune semplici operazioni che tradizionalmente richiedono molto lavoro, come il creare un onClickListener.
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Italianizzare le date in Jekyll
 description: Jekyll utilizza di default le date inglesi. Scopriamo come cambiarle in modo da mostrare date italiane.
 thumbnail: /assets/calendario.jpg

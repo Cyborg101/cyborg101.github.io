@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Sono (ri)passato a Mac
 description: Ecco perchè sono passato da Linux a Mac. 5 Motivi per cui amo Mac e altri 4 che mi fanno rimpiangere Linux.  
 ---

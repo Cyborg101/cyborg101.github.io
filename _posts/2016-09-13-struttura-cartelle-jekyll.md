@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Struttura delle cartelle di Jekyll
 description: Per poter utilizzare al meglio Jekyll, è importante conoscere la sua struttura di cartelle e file.
 img: /assets/jekyll-logo.png

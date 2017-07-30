@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Crea la tua launcher icon in meno di un minuto!
 description: Per chi non ha tempo/voglia, non dispone di un designer, o in fase di prototipazione, Launcher Icon Generator offre l'opportunità di creare un'icona launcher in pochi secondi.
 ---

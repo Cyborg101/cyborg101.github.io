@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Semplificare il parsing Json con Gson
 description: Gson è una libreria che permette di velocizzare il parsing json
 thumbnail: /assets/gson.png
@@ -11,7 +12,7 @@ image:
   height: 150
   width:  200
 ---
-Se nella tua vita di programmatore Java ti trovi spesso ad effettuare serializzazione e deserializzazione Json, dovresti prendere in considerazione l'utilizzo di una libreria fatta apposta per velocizzare questi task. [Gson](https://github.com/google/gson) è una libreria Java creata da Google che permette di convertire un oggetto Java in un oggetto Json e viceversa in modo veloce ed efficiente. Ci sono molte librerie Java capaci di fare ciò, ma Gson è una fra le poche che non richiede l'uso di annotazioni ne tantomeno il codice sorgente delle classi che vogliamo convertire in Json.
+Se nella tua vita di programmatore Java ti trovi spesso ad effettuare serializzazione e deserializzazione Json, dovresti prendere in considerazione l'utilizzo di una libreria fatta apposta per velocizzare questi task. [Gson](https://github.com/google/gson) è una libreria Java creata da Google che permette di convertire un oggetto Java in un oggetto Json e viceversa in modo veloce ed efficiente. Ci sono molte librerie Java capaci di fare ciò, ma Gson è una fra le poche che non richiede l'uso di annotazioni ne tantomeno del codice sorgente delle classi che vogliamo convertire in Json.
 Contiene due metodi chiamati *fromJson()* e *toJson()* che sono l'equivalente dei metodi Java *toString()* e *fromString()*.
 <!-- more -->
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: "Come creare una chiavetta di installazione Ubuntu"
 description: "Hai bisogno di installare ubuntu sul tuo computer? Allora leggi questo articolo, che spiega come farlo attraverso una chiavetta usb."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Supportare le cards Twitter con Jekyll
 description: In questo articolo spiego come supportare le cards twitter con il tuo sito Jekyll. In questo potrai decidere come appare il tuo sito quando viene condiviso su twitter.
 thumbnail: /assets/twitter.png

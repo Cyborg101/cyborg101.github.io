@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Umberto D'Ovidio
 title: Selettori di attributo css
 description: I selettori di attributo in css3 ci permettono di effettuare operazioni molto potenti. Ho preparato una piccola dimostrazione.
 thumbnail: /assets/css_selectors.png
