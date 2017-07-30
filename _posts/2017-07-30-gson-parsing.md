@@ -2,12 +2,12 @@
 layout: post
 title: Semplificare il parsing Json con Gson
 description: Gson è una libreria che permette di velocizzare il parsing json
-thumbnail: /assets/css_selectors.png
-img: /assets/css_selectors.png
+thumbnail: /assets/gson.png
+img: /assets/gson.png
 image:
-  path: /assets/css_selectors.png
-  twitter: /assets/css_selectors.png
-  facebook: /assets/css_selectors.png
+  path: /assets/gson.png
+  twitter: /assets/gson.png
+  facebook: /assets/gson.png
   height: 150
   width:  200
 ---
