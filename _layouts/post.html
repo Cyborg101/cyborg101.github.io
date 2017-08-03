@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+<article {% if page.feature-img or page.feature-img-sm or page.feature-img-md or page.feature-img-lg or page.feature-img-xl %}class="feature-image"{% endif %}>
+  <header class="responsive-img">
     <h1 class="title">{{ page.title }}</h1>
     <p class="meta">
     {% assign m = page.date | date: "%-m" %}

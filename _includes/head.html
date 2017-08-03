@@ -68,4 +68,30 @@
 	ga('send', 'pageview');
 	</script>
 	{% endif %}
+
+	{% if page.feature-img or page.feature-img-sm or page.feature-img-md or page.feature-img-lg or page.feature-img-xl %}
+		<style>		
+		@media screen and (max-width: 767px) {
+			header.responsive-img {
+				background-image: url({% if page.feature-img-xs %}'{{ site.baseurl }}/{{ page.feature-img-xs }}'{% elsif page.feature-img %}'{{ site.baseurl }}/{{ page.feature-img }}'{% endif %});
+			}
+		}
+		@media screen and (min-width: 768px) {
+			header.responsive-img {
+				background-image: url({% if page.feature-img-sm %}'{{ site.baseurl }}/{{ page.feature-img-sm }}'{% elsif page.feature-img %}'{{ site.baseurl }}/{{ page.feature-img }}'{% endif %});
+			}
+		}
+		@media screen and (min-width: 992px) {
+			header.responsive-img {
+				background-image: url({% if page.feature-img-md %}'{{ site.baseurl }}/{{ page.feature-img-md }}'{% elsif page.feature-img %}'{{ site.baseurl }}/{{ page.feature-img }}'{% endif %});
+			}
+		}
+		@media screen and (min-width: 1200px) {
+			header.responsive-img {
+				background-image: url({% if page.feature-img-lg %}'{{ site.baseurl }}/{{ page.feature-img-lg }}'{% elsif page.feature-img %}'{{ site.baseurl }}/{{ page.feature-img }}'{% endif %});
+			}
+		}
+	</style>
+	{% endif %}
+
 </head>
