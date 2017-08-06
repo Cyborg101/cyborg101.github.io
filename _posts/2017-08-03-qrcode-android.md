@@ -35,7 +35,7 @@ compile 'me.dm7.barcodescanner:zxing:1.9.4'
 Nota che non consiglio di usare l'ultima versione (che al momento è la 1.9.5) perchè sembra non funzionare in portrait mode, almeno non nel mio galaxy s5 mini.
 
 
-Dobbiamo poi autorizzare l'app ad accedere alla fotocamera. Per farlo aggiungiamo la seguente riga al file **Android Manifest.xml**.
+Dobbiamo poi chiedere l'autorizzazione per accedere alla fotocamera. Per farlo aggiungiamo la seguente riga al file **Android Manifest.xml**.
 
 {% highlight xml %}
 <uses-permission android:name="android.permission.CAMERA" />
