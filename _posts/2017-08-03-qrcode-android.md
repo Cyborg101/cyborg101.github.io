@@ -24,7 +24,7 @@ Come si integra la funzionalità di lettura dei QR code in un'app Android? Scopr
 Ho preparato un semplice tutorial che fornisce un ottimo esempio di come affrontare il problema. La nostra app sarà in grado di leggere i QR code e di aprire un browser se  l'informazione codificata nel QR code è un url valido. Puoi trovare il codice sorgente su [Github](https://github.com/Cyborg101/dovidioTutorials/tree/master/QrCodeReader-android).
 
 La funzionalità di lettura del QR code non è integrata nella sdk android, ma bisogna, se non vogliamo fare tutto da soli, importare una libreria. 
-La libreria più famosa e storica è senza dubbio [Zxing]() (Zebra crossing). Noi ci serviremo di un'altra [libreria](https://github.com/dm77/barcodescanner) basata su zxing che rende tutto più semplice. 
+La libreria più famosa e storica è senza dubbio [Zxing](https://github.com/zxing/zxing) (Zebra crossing). Noi ci serviremo di un'altra [libreria](https://github.com/dm77/barcodescanner) basata su zxing che rende tutto più semplice. 
 
 Iniziamo dunque a darci dentro col codice! Per prima cosa, apriamo Android studio e aggiungiamo la libreria nel file  build.gradle a livello app.
 
