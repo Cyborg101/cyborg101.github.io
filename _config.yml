@@ -7,7 +7,7 @@ excerpt_separator: "<!-- more -->"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Umberto D'Ovidio -- Sviluppatore Web e Mobile
+  title: Umberto D'Ovidio - Sviluppatore Web e Mobile
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "Sito web personale di Umberto D'Ovidio -- Sviluppatore Web e Mobile" # used by search engines
