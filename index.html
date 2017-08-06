@@ -1,11 +1,15 @@
 ---
 layout: default
+feature-img: "assets/header_md.png"
+feature-img-xs: "assets/header_xs.png"
+feature-img-sm: "assets/header_sm.png"
+feature-img-md: "assets/header_md.png"
+feature-img-lg: "assets/header_lg.png"
 ---
 
 <div class="home">
   {% if site.theme_settings.header_text %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  <div class="call-out responsive-img">
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}

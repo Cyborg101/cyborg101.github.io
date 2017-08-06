@@ -2,7 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/header_about.png"
+feature-img: "img/about_about.png"
+feature-img: "assets/about_md.png"
+feature-img-xs: "assets/about_xs.png"
+feature-img-sm: "assets/about_sm.png"
+feature-img-md: "assets/about_md.png"
+feature-img-lg: "assets/about_lg.png"
 ---
 
 Ciao, mi chiamo Umberto e sono uno sviluppatore web e mobile. Ogni giorno imparo qualcosa di nuovo nel campo della programmazione e desidero condividere le mie scoperte attraverso questo sito. 
