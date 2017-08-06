@@ -12,40 +12,44 @@ layout: default
 
   <div class="posts">
     {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
+      {% capture nowunix %} {{'now' | date: '%s'}} {% endcapture %}
+      {% capture posttime %} {{ post.date | date: '%s'}} {% endcapture %}
+      {% if posttime < nowunix %}
+          <div class="post-teaser">
+        <header>
+          <h1>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </h1>
+          <p class="meta">
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Gennaio
+                {% when '2' %}Febbraio
+                {% when '3' %}Marzo
+                {% when '4' %}Aprile
+                {% when '5' %}Maggio
+                {% when '6' %}Giugno
+                {% when '7' %}Luglio
+                {% when '8' %}Agosto
+                {% when '9' %}Settembre
+                {% when '10' %}Ottobre
+                {% when '11' %}Novembre
+                {% when '12' %}Dicembre
+                {% endcase %}
+            {{ post.date | date: "%Y" }}
+          </p>
+        </header>
+        <div class="excerpt">
+          {{ post.excerpt }}
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            {{ site.theme_settings.str_continue_reading }}
           </a>
-        </h1>
-        <p class="meta">
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%-d" }}
-            {% case m %}
-              {% when '1' %}Gennaio
-              {% when '2' %}Febbraio
-              {% when '3' %}Marzo
-              {% when '4' %}Aprile
-              {% when '5' %}Maggio
-              {% when '6' %}Giugno
-              {% when '7' %}Luglio
-              {% when '8' %}Agosto
-              {% when '9' %}Settembre
-              {% when '10' %}Ottobre
-              {% when '11' %}Novembre
-              {% when '12' %}Dicembre
-              {% endcase %}
-          {{ post.date | date: "%Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </a>
+        </div>
       </div>
-    </div>
+      {% endif %}
     {% endfor %}
   </div>
 
