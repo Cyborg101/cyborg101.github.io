@@ -18,7 +18,7 @@ image:
   width:  200
 ---
 
-Come si integriamo la funzionalità di lettura dei QR code in un'app Android? Scopriamolo insieme!
+Come si integra la funzionalità di lettura dei QR code in un'app Android? Scopriamolo insieme!
 <!-- more -->
 
 Ho preparato un semplice tutorial che fornisce un ottimo esempio di come affrontare il problema. La nostra app sarà in grado di leggere i QR code e di aprire un browser se  l'informazione codificata nel QR code è un url valido. Puoi trovare il codice sorgente su [Github](https://github.com/cyborg101/dovidiotutorials/qrcodereader).
