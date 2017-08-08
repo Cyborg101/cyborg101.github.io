@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dovid.io" # the base hostname & protocol for your site
 excerpt_separator: "<!-- more -->"
 lang: it_IT
-
+env: production
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
