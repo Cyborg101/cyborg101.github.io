@@ -2,6 +2,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dovid.io" # the base hostname & protocol for your site
 excerpt_separator: "<!-- more -->"
+lang: it_IT
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -74,4 +75,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
