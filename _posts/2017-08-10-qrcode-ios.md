@@ -3,14 +3,6 @@ layout: post
 author: Umberto D'Ovidio
 title: Leggere i QR Code con Swift
 description: Come creare un'app che permette di legger i QR code in iOS usando Swift?
-thumbnail: /assets/qrcodeios.png
-img: /assets/qrcodeios.png
-image:
-  path: /assets/qrcodeios.png
-  twitter: /assets/qrcodeios.png
-  facebook: /assets/qrcodeios.png
-  height: 150
-  width:  200
 ---
 La scorsa settimana ho scritto un breve [tutorial](http://dovid.io/2017/08/03/qrcode-android.html) su come includere la funzionalità di lettura dei qr code nella tua app Android. Per par condicio, oggi vedremo come farlo in iOS. Sfrutteremo la libreria che ci viene messa a disposizione da iOS chiamata [AVFoundation](https://developer.apple.com/av-foundation/).
 <!-- more -->
