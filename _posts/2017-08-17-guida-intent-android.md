@@ -3,20 +3,6 @@ layout: post
 author: Umberto D'Ovidio
 title: Passare da un Activity all'altra con gli Intent
 description: Cosa sono gli Intent ed Intent Filter in Android e come funzionano?
-thumbnail: /assets/intent_android_promo.png
-img: /assets/intent_android_promo.png
-feature-img: "assets/intent_android_featured.png"
-feature-img-xs: "assets/intent_android_featured_xs.png"
-feature-img-sm: "assets/intent_android_featured_sm.png"
-feature-img-md: "assets/intent_android_featured_md.png"
-feature-img-lg: "assets/intent_android_featured_lg.png"
-visible: 1
-image:
-  path: /assets/intent_android_promo.png
-  twitter: /assets/intent_android_promo.png
-  facebook: /assets/intent_android_promo.png
-  height: 150
-  width:  200
 ---
 
 Ogni sviluppatore Android che si rispetti deve conoscere molto bene l'utilizzo degli **Intent**, questo perchè sono una delle classi più usate in assoluto. Se li hai già utilizzati ma non hai mai approfondito il discorso, allora sei nel posto giusto.
