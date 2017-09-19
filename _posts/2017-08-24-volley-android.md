@@ -27,6 +27,7 @@ Volley utilizza una coda per gestire le richieste http. È possibile creare l'og
 - *StringRequest*
 - *JsonRequest*
 - *InputStreamRequest* 
+
 E' possibile poi creare un tipo di richiesta personalizzato estendendo l'oggetto *Request* e implementando i metodi *parseNetworkResponse()* e *deliverResponse()*. Per ora vedremo un semplice esempio che utilizza la *StringRequest*.
 
 {% highlight java %} 
