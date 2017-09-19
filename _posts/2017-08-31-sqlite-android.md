@@ -2,7 +2,7 @@
 layout: post
 author: Umberto D'Ovidio
 title: Utilizzare SQLite in Android
-description: Come persistere i dati della nostra applicazione usando SQLite
+description: Come salvare i dati della nostra applicazione usando SQLite
 ---
 
 La maggior parte delle applicazioni Android ha bisogno di salvare dei dati in qualche modo. Ci sono diverse soluzioni possibili,
@@ -184,8 +184,6 @@ Di seguito abbiamo un esempio di interrogazione su tutti i record presenti all'i
 {% endhighlight %}
 
 ### Mostrare la nostra lista con il CursorAdapter
-
-
 
 
 
