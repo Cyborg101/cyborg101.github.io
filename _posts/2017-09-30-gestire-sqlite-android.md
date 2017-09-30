@@ -9,6 +9,12 @@ feature-img-xs: "assets/default.png"
 feature-img-sm: "assets/default.png"
 feature-img-md: "assets/default.png"
 feature-img-lg: "assets/default.png"
+image:
+  path: /assets/sqlite_promo.png"
+  twitter: /assets/sqlite_promo.png"
+  facebook: /assets/sqlite_promo.png"
+  height: 150
+  width:  200
 ---
 
 Se vuoi salvare dati nella tua app Android, quasi sicuramente utilizzerai il database SQLite. Purtroppo però la documentazione ufficiale su come gestirlo lascia molto a desiderare. In questo post scopriremo alcune tecniche che possono sembrare controintuitive, ma ti risparmieranno un sacco di grattacapi.
