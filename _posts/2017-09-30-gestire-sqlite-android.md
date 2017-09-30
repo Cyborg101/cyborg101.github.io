@@ -3,7 +3,7 @@ layout: post
 author: Umberto D'Ovidio
 title: Come gestire SQLite su Android senza diventare pazzo
 description: Ecco la migliore pratiche che ho scoperto sulla gestione di sqlite in Android.
-img: "/asssets/sqlite_promo.png"
+img: "/assets/sqlite_promo.png"
 feature-img: "assets/default.png"
 feature-img-xs: "assets/default.png"
 feature-img-sm: "assets/default.png"
