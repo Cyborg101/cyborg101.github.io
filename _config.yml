@@ -12,16 +12,16 @@ theme_settings:
   title: Dovid.io - Sviluppo mobile e web
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Articoli e tutorial scritti a regola d'arte su programmazione web lato server e client. Approfondimenti su sviluppo mobile per iOS e Android e tante altre cose che piacciono alle donne." # used by search engines
+  description: "Articoli e tutorial scritti a regola d'arte su programmazione web lato server e client. Approfondimenti su linguaggi come Java, Kotlin, Swift, Javascript." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Dovid.io</h1>
-     <p>Le fantastiche avventure di un programmatore in erba</p>
+     <h2>Dovid.io</h2>
+     <p>Parliamo di sviluppo web, mobile e correlati.</p>
   header_text_feature_image: 
       img/header_home.png
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> Copyright 2017 Umberto D'Ovidio
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> - Copyright 2017 Umberto D'Ovidio
 
   # Icons
   rss: false
