@@ -21,11 +21,11 @@ feature-img-lg: "assets/header_lg.png"
       {% if posttime < nowunix %}
           <div class="post-teaser">
         <header>
-          <h1>
+          <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
               {{ post.title }}
             </a>
-          </h1>
+          </h2>
           <p class="meta">
             {% assign m = post.date | date: "%-m" %}
             {{ post.date | date: "%-d" }}
