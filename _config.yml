@@ -55,8 +55,8 @@ theme_settings:
   str_follow_on: "Seguici on"
   str_rss_follow: "Segui RSS feed"
   str_email: "Email"
-  str_next: "Prossimo"
-  str_prev: "Successivo"
+  str_next: "Successivo"
+  str_prev: "Precedente"
   str_continue_reading: "Continua a leggere"
 
   # Colours, typography and padding
