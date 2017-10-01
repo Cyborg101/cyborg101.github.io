@@ -4,14 +4,15 @@ url: "http://dovid.io" # the base hostname & protocol for your site
 excerpt_separator: "<!-- more -->"
 lang: it_IT
 env: production
+title: dovid.io
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Umberto D'Ovidio - Sviluppatore Web e Mobile
+  title: Umberto D'Ovidio - Sviluppo mobile e web
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Sito web personale di Umberto D'Ovidio -- Sviluppatore Web e Mobile" # used by search engines
+  description: "Articoli e tutorial scritti a regola d'arte su programmazione web lato server, client e programmazione mobile per iOS e Android" # used by search engines
 
   # Header and footer text
   header_text: >
