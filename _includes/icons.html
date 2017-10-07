@@ -94,6 +94,14 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.quora %}
+<li>
+	<a href="https://it.quora.com/profile/{{ site.theme_settings.quora }}" title="{{ site.theme_settings.str_follow_on }} Quora">
+		<i class="fa fa-fw fa-quora"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.reddit %}
 <li>
 	<a href="https://www.reddit.com/user/{{ site.theme_settings.reddit }}" title="{{ site.theme_settings.str_follow_on }} Reddit">
