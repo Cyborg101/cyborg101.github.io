@@ -23,7 +23,7 @@ Fondamentalmente, un modulo può fare due cose:
 - specificare una relazione di dipendenza da altri moduli attraverso la keyword **requires**
 - specificare quali **packages** rende disponibili agli altri moduli attraverso la keyword **exports**
 
-Per rendere chiaro il funzionamento dei moduli svilupperemo insieme una semplice applicazione che se ne serve. 
+Per rendere chiaro il funzionamento dei moduli svilupperemo insieme una semplice applicazione che se ne serve. Il codice sorgente è disponibile su [Github](https://github.com/Cyborg101/dovidioTutorials/tree/master/Modulo)
 Per prima cosa creiamo una cartella del progetto, che chiameremo **Modulo**.
 All'interno di questa cartella creiamo un'altra cartella chiamata **src**, che conterrà tutto il codice sorgente della nostra applicazione.
 Entriamo in *src* e creiamo due cartelle: **modulopricipale** e **utils**. Entriamo all'interno della prima cartella e creiamo un'altra cartella chiamata **moduloprincipale**. All'interno di questa cartella creiamo un'altra cartella che chiameremo **appesempio**. 
