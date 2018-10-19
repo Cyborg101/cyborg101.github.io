@@ -21,7 +21,11 @@ theme_settings:
   header_text_feature_image: 
       img/header_home.png
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> - Copyright 2017 Umberto D'Ovidio
+<<<<<<< HEAD
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> - Copyright 2018 Umberto D'Ovidio
+=======
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+>>>>>>> e5db7cc0d973b756cbb5e4915d773ab08ef788f7
 
   # Icons
   rss: false
@@ -31,7 +35,12 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
+<<<<<<< HEAD
   github: "Cyborg101"
+=======
+  gitlab:
+  github: "rohanchandra/type-theme"
+>>>>>>> e5db7cc0d973b756cbb5e4915d773ab08ef788f7
   google_plus:
   instagram:
   linkedin:  "https://www.linkedin.com/in/umberto-d-ovidio-b6b276125"
@@ -47,18 +56,35 @@ theme_settings:
   youtube:
 
   # Scripts
+<<<<<<< HEAD
   google_analytics: UA-84012198-1
   disqus_shortname: dovid-io
   muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
   katex: false # Enable if using math markup
+=======
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+  search: false # Enable the search feature
+>>>>>>> e5db7cc0d973b756cbb5e4915d773ab08ef788f7
 
   # Localization strings
   str_follow_on: "Seguici on"
   str_rss_follow: "Segui RSS feed"
   str_email: "Email"
+<<<<<<< HEAD
   str_next: "Successivo"
   str_prev: "Precedente"
   str_continue_reading: "Continua a leggere"
+=======
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_search_no_results: "No results found."
+>>>>>>> e5db7cc0d973b756cbb5e4915d773ab08ef788f7
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -77,4 +103,12 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
+<<<<<<< HEAD
 gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
+=======
+plugins: [jekyll-paginate]
+theme: jekyll-theme-type
+exclude:
+  - Gemfile
+  - Gemfile.lock
+>>>>>>> e5db7cc0d973b756cbb5e4915d773ab08ef788f7
